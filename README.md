@@ -1,2 +1,2 @@
 # StringBoot_API
-API String Boot --- Java/Eclipse
+API Spring Boot --- Java/Eclipse
